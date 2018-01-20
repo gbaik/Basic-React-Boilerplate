@@ -1,0 +1,23 @@
+{
+  "name": "tree-project-master",
+  "version": "1.0.0",
+  "description": "This exercise is to build a folder and file explorer (or a tree control). You must use ReactJS for this project. We recommend using https://github.com/facebookincubator/create-react-app to bootstrap your project, but you can set it up however you'd like.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config=webpack.config.js --display-error-details --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "webpack": "^3.10.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "body-parser": "^1.18.2"
+  }
+}
