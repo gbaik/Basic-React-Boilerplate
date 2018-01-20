@@ -1,6 +1,6 @@
 {
   "name": "basic-react-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This exercise is to build a folder and file explorer (or a tree control). You must use ReactJS for this project. We recommend using https://github.com/facebookincubator/create-react-app to bootstrap your project, but you can set it up however you'd like.",
   "main": "index.js",
   "scripts": {
